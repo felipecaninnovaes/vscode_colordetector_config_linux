@@ -6,7 +6,7 @@ Script to set up the ide color detector
 * [vscode](https://github.com/felipecaninnovaes/vscode_colordetector_config_linux/wiki/VSCode)
 * make <br>
 ## **Requirements to install**
-**Ubuntu**<br>
+**Ubuntu and Flavors**<br>
   [install vscode](https://github.com/felipecaninnovaes/vscode_colordetector_config_linux/wiki/VSCode)<br>
   Install make
 `sudo apt install make`<br><br>
