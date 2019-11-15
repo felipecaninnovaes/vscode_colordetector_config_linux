@@ -3,6 +3,7 @@
 Script to set up the ide color detector
 
 **Requiriments**
+* [Arduino IDE 1.8.8](https://github.com/felipecaninnovaes/vscode_colordetector_config_linux/wiki/Arduino-IDE)
 * [vscode](https://github.com/felipecaninnovaes/vscode_colordetector_config_linux/wiki/VSCode)
 * make <br>
 ## **Requirements to install**
