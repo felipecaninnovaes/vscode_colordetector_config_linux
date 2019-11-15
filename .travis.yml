@@ -1,0 +1,12 @@
+
+language: c
+
+install:
+  - make install
+ 
+ script: make
+ 
+ build: make
+ 
+os:
+  - linux
