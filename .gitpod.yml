@@ -1,0 +1,4 @@
+vscode:
+  extensions: 
+  - platformio.platformio-ide
+  - ms-vscode.cpptools
